@@ -8,7 +8,7 @@ Calculadora con entradas input para que el usuario pueda procesar sus sumas, res
 
 git clone https://github.com/jhon690/calculadora.git
 
-2. Crear el entorno vierual
+2. Crear el entorno virtual
 
 python -m venv .venv
 
